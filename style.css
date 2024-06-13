@@ -12,7 +12,7 @@
 }
 
 *{
-    font-weight: 400;
+    font-weight: 40;
 }
 
 body{
@@ -32,7 +32,7 @@ body{
 
 .conteudo-titulo{
     text-align: center;
-    margin-top: 8px;
+    margin-top: 80px;
 }
 
 .conteudo-senha{
