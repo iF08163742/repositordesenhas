@@ -63,7 +63,7 @@ body{
 .parametro{
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
-    margin-top: 32px;
+    margin-top: 320px;
     padding: 24px;
 }
 
@@ -73,7 +73,7 @@ body{
 }
 
 .parametro-senha__titulo{
-    font-size:200px;
+    font-size:20px;
 }
 
 .parametro-coluna__senha{
